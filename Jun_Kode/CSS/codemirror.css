@@ -455,6 +455,12 @@ span.CodeMirror-selectedtext { background: none; }
 .cm-s-abbott span.cm-string.cm-url {
     color: #f63f05;
 }
+
+.night .cm-s-abbott span.cm-number,
+.night .cm-s-abbott span.cm-string.cm-url {
+    color: #dac506;
+}
+
 .cm-s-abbott span.cm-invalidchar {
     color: #00ff7f;
 }
