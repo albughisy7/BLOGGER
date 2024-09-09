@@ -405,7 +405,7 @@ span.CodeMirror-selectedtext {
 
 .cm-s-abbott.CodeMirror {
     background: var(--bgMain);
-    color: #557bf6;
+    color: #345ee8;
 }
 .night .cm-s-abbott.CodeMirror {
     background: var(--dm-bgMain);
@@ -505,7 +505,7 @@ span.CodeMirror-selectedtext {
 }
 .cm-s-abbott span.cm-string,
 .cm-s-abbott span.cm-string-2 {
-    color: #de6bf5;
+    color: #c341de;
 }
 .night .cm-s-abbott span.cm-string,
 .night .cm-s-abbott span.cm-string-2 {
@@ -532,8 +532,16 @@ span.CodeMirror-selectedtext {
 .cm-s-abbott span.cm-variable,
 .cm-s-abbott span.cm-variable-2,
 .cm-s-abbott span.cm-variable-3 {
+    color: #37a5e1;
+}
+
+.night .cm-s-abbott span.cm-def,
+.night .cm-s-abbott span.cm-variable,
+.night .cm-s-abbott span.cm-variable-2,
+.night .cm-s-abbott span.cm-variable-3 {
     color: #8ccdf0;
 }
+
 .cm-s-abbott span.cm-builtin,
 .cm-s-abbott span.cm-property,
 .cm-s-abbott span.cm-qualifier {
@@ -547,8 +555,13 @@ span.CodeMirror-selectedtext {
     font-weight: 700;
 }
 .cm-s-abbott span.cm-meta {
+    color: #ef4681;
+}
+
+.night .cm-s-abbott span.cm-meta {
     color: #ec6c99;
 }
+
 .cm-s-abbott span.cm-tag {
     color: #d80450;
     font-weight: 700;
