@@ -511,6 +511,12 @@ span.CodeMirror-selectedtext { background: none; }
     color: #d80450;
     /*font-weight: 700;*/
 }
+
+night .cm-s-abbott span.cm-tag {
+    color: #ee588e;
+    /*font-weight: 700;*/
+}
+
 .cm-s-abbott span.cm-attribute {
     color: #24a507;
 }
