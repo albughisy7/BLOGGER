@@ -427,7 +427,7 @@ span.CodeMirror-selectedtext {
     color: #9f9f9f;
 }
 .CodeMirror-lines {
-    padding-left: 5px;
+    padding-left: 0px;
     padding-top: 10px;
     font-size: 15px;
 }
