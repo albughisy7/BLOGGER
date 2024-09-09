@@ -459,8 +459,13 @@ span.CodeMirror-selectedtext { background: none; }
     color: #00ff7f;
 }
 .cm-s-abbott span.cm-atom {
+    color: #b8a433;
+}
+
+.night .cm-s-abbott span.cm-atom {
     color: #fef3b4;
 }
+
 .cm-s-abbott span.cm-bracket,
 .cm-s-abbott span.cm-punctuation {
     color: #fef3b4;
@@ -492,7 +497,7 @@ span.CodeMirror-selectedtext { background: none; }
 }
 .cm-s-abbott span.cm-keyword {
     color: #d80450;
-    font-weight: 700;
+    /*font-weight: 700;*/
 }
 .cm-s-abbott span.cm-meta {
     color: #ef4681;
@@ -504,14 +509,14 @@ span.CodeMirror-selectedtext { background: none; }
 
 .cm-s-abbott span.cm-tag {
     color: #d80450;
-    font-weight: 700;
+    /*font-weight: 700;*/
 }
 .cm-s-abbott span.cm-attribute {
     color: #24a507;
 }
 .cm-s-abbott span.cm-header {
     color: #d80450;
-    font-weight: 700;
+    /*font-weight: 700;*/
 }
 .cm-s-abbott span.cm-hr {
     color: #ec6c99;
@@ -526,7 +531,7 @@ span.CodeMirror-selectedtext { background: none; }
 .cm-s-abbott span.cm-positive {
     background: #a0ea00;
     color: #231c14;
-    font-weight: 700;
+    /*font-weight: 700;*/
 }
 .cm-s-abbott span.cm-error {
     background: #d80450;
@@ -535,7 +540,7 @@ span.CodeMirror-selectedtext { background: none; }
 .cm-s-abbott span.CodeMirror-matchingbracket {
     background: #745d42 !important;
     color: #231c14 !important;
-    font-weight: 700;
+    /*font-weight: 700;*/
 }
 .cm-s-abbott span.CodeMirror-nonmatchingbracket {
     background: #d80450 !important;
@@ -551,7 +556,7 @@ span.CodeMirror-selectedtext { background: none; }
 }
 .cm-s-abbott .CodeMirror-activeline-gutter .CodeMirror-linenumber {
     color: #d8ff84;
-    font-weight: 700;
+    /*font-weight: 700;*/
 }
 .cm-s-abbott .CodeMirror-foldmarker {
     color: #f63f05;
