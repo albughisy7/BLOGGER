@@ -355,7 +355,7 @@ span.CodeMirror-selectedtext { background: none; }
     background: #f3f3f3;
     /* border: none; */
     border-color: var(--border);
-    width: 39px;
+    /*width: 39px;*/
     /* padding-right: 10px; */
 }
 .night .cm-s-abbott .CodeMirror-gutters {
