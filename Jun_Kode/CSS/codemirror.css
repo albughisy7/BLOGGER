@@ -1,3 +1,8 @@
+.CodeMirror pre.CodeMirror-placeholder {
+    color: #999;
+}
+
+
 /* BASICS */
 
 .CodeMirror {
