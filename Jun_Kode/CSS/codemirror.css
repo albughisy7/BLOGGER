@@ -582,7 +582,7 @@ span.CodeMirror-selectedtext { background: none; }
 }
 .cm-s-abbott .CodeMirror-matchingtag,
 .cm-s-abbott .cm-matchhighlight {
-    outline: 1px solid #39a78d;
+    /*outline: 1px solid #39a78d;*/
 }
 .cm-s-abbott .CodeMirror-activeline-background,
 .cm-s-abbott .CodeMirror-activeline-gutter {
