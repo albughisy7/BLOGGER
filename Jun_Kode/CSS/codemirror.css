@@ -350,11 +350,11 @@ span.CodeMirror-selectedtext { background: none; }
 
 .cm-s-abbott.CodeMirror {
     background: var(--bgMain);
-    color: #345ee8;
+    color: /*#345ee8*/ #4d4d4e;
 }
 .night .cm-s-abbott.CodeMirror {
     background: var(--dm-bgMain);
-    color: #d8ff84;
+    color: /*#d8ff84*/ #d6d6d6;
 }
 .cm-s-abbott .CodeMirror-gutters {
     background: #f3f3f3;
