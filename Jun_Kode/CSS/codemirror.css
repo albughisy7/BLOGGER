@@ -383,8 +383,13 @@ span.CodeMirror-selectedtext { background: none; }
     color: #f63f05;
 }
 .cm-s-abbott .CodeMirror-guttermarker-subtle {
+    color: #857e71;
+}
+
+.night .cm-s-abbott .CodeMirror-guttermarker-subtle {
     color: #fbb32f;
 }
+
 .cm-s-abbott .CodeMirror-ruler {
     border-color: #745d42;
 }
@@ -561,8 +566,8 @@ span.CodeMirror-selectedtext { background: none; }
     color: #231c14;
 }
 .cm-s-abbott span.CodeMirror-matchingbracket {
-    background: #745d42 !important;
-    color: #231c14 !important;
+    background: /*#745d42*/#ffff0054 !important;
+    color: /*#231c14*/#f0f6fc !important;
     /*font-weight: 700;*/
 }
 .cm-s-abbott span.CodeMirror-nonmatchingbracket {
