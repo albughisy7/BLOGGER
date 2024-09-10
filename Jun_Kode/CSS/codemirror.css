@@ -566,7 +566,7 @@ span.CodeMirror-selectedtext { background: none; }
     color: #231c14;
 }
 .cm-s-abbott span.CodeMirror-matchingbracket {
-    background: /*#745d42*/#ffff0054 !important;
+    background: /*#745d42*/#ffff008f !important;
     color: #231c14 !important;
     /*font-weight: 700;*/
 }
