@@ -567,9 +567,16 @@ span.CodeMirror-selectedtext { background: none; }
 }
 .cm-s-abbott span.CodeMirror-matchingbracket {
     background: /*#745d42*/#ffff0054 !important;
+    color: #231c14 !important;
+    /*font-weight: 700;*/
+}
+
+.night .cm-s-abbott span.CodeMirror-matchingbracket {
+    background: /*#745d42*/#ffff0054 !important;
     color: /*#231c14*/#f0f6fc !important;
     /*font-weight: 700;*/
 }
+
 .cm-s-abbott span.CodeMirror-nonmatchingbracket {
     background: #d80450 !important;
     color: #231c14 !important;
