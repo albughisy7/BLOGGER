@@ -562,7 +562,11 @@ span.CodeMirror-selectedtext { background: none; }
 }
 .cm-s-abbott span.cm-error {
     background: #d80450;
-    color: #231c14;
+    color: #e9e7e7 !important;
+}
+.night .cm-s-abbott span.cm-error {
+    background: #d80450;
+    color: #0e0e0e !important;
 }
 .cm-s-abbott span.CodeMirror-matchingbracket {
     background: /*#745d42*/#ffff008f !important;
