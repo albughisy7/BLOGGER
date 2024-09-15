@@ -6,8 +6,9 @@
   height: 300px;
   color: #222;
   direction: ltr;
+  font-size: 0.85rem
 }
-.darkMode CodeMirror {
+.darkMode .CodeMirror {
     background: #1e1e1e;
     color: #fefefe;
 }
