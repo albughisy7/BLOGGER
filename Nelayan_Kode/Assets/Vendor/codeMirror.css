@@ -4,8 +4,12 @@
   /* Set height, width, borders, and global font properties here */
   font-family: monospace;
   height: 300px;
-  color: black;
+  color: #222;
   direction: ltr;
+}
+.darkMode CodeMirror {
+    background: #1e1e1e;
+    color: #fefefe;
 }
 
 /* PADDING */
@@ -123,7 +127,7 @@
 .cm-s-default .cm-comment {color: #a50;}
 .cm-s-default .cm-string {color: #a11;}
 .cm-s-default .cm-string-2 {color: #f50;}
-.cm-s-default .cm-meta {color: #555;}
+.cm-s-default .cm-meta {color: #555;} .darkMode .cm-s-default .cm-meta{color:#888787}
 .cm-s-default .cm-qualifier {color: #555;}
 .cm-s-default .cm-builtin {color: #30a;}
 .cm-s-default .cm-bracket {color: #997;}
