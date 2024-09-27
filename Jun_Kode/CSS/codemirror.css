@@ -372,7 +372,7 @@ span.CodeMirror-selectedtext { background: none; }
 }
 .CodeMirror-lines {
     padding-left: 0px;
-    padding-top: 10px;
+    padding-top: 3px;
     font-size: 15px;
 }
 .night .cm-s-abbott .CodeMirror-linenumber {
